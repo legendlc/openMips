@@ -1,0 +1,88 @@
+/home/legendlc/Desktop/RISC_CPU/V1.0/ex.v {1 {vlog -work work -stats=none /home/legendlc/Desktop/RISC_CPU/V1.0/ex.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module ex
+
+Top level modules:
+	ex
+
+} {} {}} /home/legendlc/Desktop/RISC_CPU/V1.0/id.v {1 {vlog -work work -stats=none /home/legendlc/Desktop/RISC_CPU/V1.0/id.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module id
+
+Top level modules:
+	id
+
+} {} {}} /home/legendlc/Desktop/RISC_CPU/V1.0/reg_file.v {1 {vlog -work work -stats=none /home/legendlc/Desktop/RISC_CPU/V1.0/reg_file.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} /home/legendlc/Desktop/RISC_CPU/V1.0/rom.v {1 {vlog -work work -stats=none /home/legendlc/Desktop/RISC_CPU/V1.0/rom.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} /home/legendlc/Desktop/RISC_CPU/V1.0/defines.v {1 {vlog -work work -stats=none /home/legendlc/Desktop/RISC_CPU/V1.0/defines.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+
+} {} {}} /home/legendlc/Desktop/RISC_CPU/V1.0/mem.v {1 {vlog -work work -stats=none /home/legendlc/Desktop/RISC_CPU/V1.0/mem.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module mem
+
+Top level modules:
+	mem
+
+} {} {}} /home/legendlc/Desktop/RISC_CPU/V1.0/top.v {1 {vlog -work work -stats=none /home/legendlc/Desktop/RISC_CPU/V1.0/top.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module openMIPS_tb
+
+Top level modules:
+	openMIPS_tb
+
+} {} {}} /home/legendlc/Desktop/RISC_CPU/V1.0/mem_wb.v {1 {vlog -work work -stats=none /home/legendlc/Desktop/RISC_CPU/V1.0/mem_wb.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module mem_wb
+
+Top level modules:
+	mem_wb
+
+} {} {}} /home/legendlc/Desktop/RISC_CPU/V1.0/pc_reg.v {1 {vlog -work work -stats=none /home/legendlc/Desktop/RISC_CPU/V1.0/pc_reg.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module pc_reg
+
+Top level modules:
+	pc_reg
+
+} {} {}} /home/legendlc/Desktop/RISC_CPU/V1.0/id_ex.v {1 {vlog -work work -stats=none /home/legendlc/Desktop/RISC_CPU/V1.0/id_ex.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module id_ex
+
+Top level modules:
+	id_ex
+
+} {} {}} /home/legendlc/Desktop/RISC_CPU/V1.0/llc_mips.v {1 {vlog -work work -stats=none /home/legendlc/Desktop/RISC_CPU/V1.0/llc_mips.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module open_mips
+
+Top level modules:
+	open_mips
+
+} {} {}} /home/legendlc/Desktop/RISC_CPU/V1.0/ex_mem.v {1 {vlog -work work -stats=none /home/legendlc/Desktop/RISC_CPU/V1.0/ex_mem.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module ex_mem
+
+Top level modules:
+	ex_mem
+
+} {} {}} /home/legendlc/Desktop/RISC_CPU/V1.0/if_id.v {1 {vlog -work work -stats=none /home/legendlc/Desktop/RISC_CPU/V1.0/if_id.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module if_id
+
+Top level modules:
+	if_id
+
+} {} {}}

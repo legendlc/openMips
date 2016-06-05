@@ -1,0 +1,251 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/legendlc/altera/Projects/vending_machine
+vex
+Z0 !s110 1465140781
+!i10b 1
+!s100 7^dT`fShgRFLaU_bDY=J03
+IS2Il_jAH4iFV7VNS@Ghk50
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/legendlc/Desktop/RISC_CPU/V1.0
+w1465140598
+8/home/legendlc/Desktop/RISC_CPU/V1.0/ex.v
+F/home/legendlc/Desktop/RISC_CPU/V1.0/ex.v
+L0 3
+Z3 OV;L;10.4b;61
+r1
+!s85 0
+31
+Z4 !s108 1465140781.000000
+!s107 defines.v|/home/legendlc/Desktop/RISC_CPU/V1.0/ex.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/legendlc/Desktop/RISC_CPU/V1.0/ex.v|
+!i113 1
+Z5 o-work work
+vex_mem
+R0
+!i10b 1
+!s100 N_9bQzG?YSBEX45bgE7ON1
+IG;W0MNWPX1J5ckCFi_UeP2
+R1
+R2
+w1465140777
+8/home/legendlc/Desktop/RISC_CPU/V1.0/ex_mem.v
+F/home/legendlc/Desktop/RISC_CPU/V1.0/ex_mem.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 defines.v|/home/legendlc/Desktop/RISC_CPU/V1.0/ex_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/legendlc/Desktop/RISC_CPU/V1.0/ex_mem.v|
+!i113 1
+R5
+vid
+R0
+!i10b 1
+!s100 5KePTLBI]d3aAW4Uhn4F@0
+I^>1Xag[]ISJQb52ZAYmgc1
+R1
+R2
+Z6 w1465116208
+8/home/legendlc/Desktop/RISC_CPU/V1.0/id.v
+F/home/legendlc/Desktop/RISC_CPU/V1.0/id.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 defines.v|/home/legendlc/Desktop/RISC_CPU/V1.0/id.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/legendlc/Desktop/RISC_CPU/V1.0/id.v|
+!i113 1
+R5
+vid_ex
+R0
+!i10b 1
+!s100 4;_XKGhim44n;CHeGWUK;3
+Io@L7@V=0P95`B1lP0o9]X3
+R1
+R2
+R6
+8/home/legendlc/Desktop/RISC_CPU/V1.0/id_ex.v
+F/home/legendlc/Desktop/RISC_CPU/V1.0/id_ex.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 defines.v|/home/legendlc/Desktop/RISC_CPU/V1.0/id_ex.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/legendlc/Desktop/RISC_CPU/V1.0/id_ex.v|
+!i113 1
+R5
+vif_id
+R0
+!i10b 1
+!s100 g<akzZ4M813Ujg4g3Dd6G0
+IC[NKiXP0mCLHm:_HoZXIg1
+R1
+R2
+R6
+8/home/legendlc/Desktop/RISC_CPU/V1.0/if_id.v
+F/home/legendlc/Desktop/RISC_CPU/V1.0/if_id.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 defines.v|/home/legendlc/Desktop/RISC_CPU/V1.0/if_id.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/legendlc/Desktop/RISC_CPU/V1.0/if_id.v|
+!i113 1
+R5
+vmem
+R0
+!i10b 1
+!s100 ^4L^TCI0JdejgfC5`PIb<3
+I9d5L`egCdM6186[ANl8UY2
+R1
+R2
+R6
+8/home/legendlc/Desktop/RISC_CPU/V1.0/mem.v
+F/home/legendlc/Desktop/RISC_CPU/V1.0/mem.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 defines.v|/home/legendlc/Desktop/RISC_CPU/V1.0/mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/legendlc/Desktop/RISC_CPU/V1.0/mem.v|
+!i113 1
+R5
+vmem_wb
+R0
+!i10b 1
+!s100 ENOjWiUASQ0<XMjLH0TGm0
+IIG6fnh9Xi]hkWMV37zUzc0
+R1
+R2
+R6
+8/home/legendlc/Desktop/RISC_CPU/V1.0/mem_wb.v
+F/home/legendlc/Desktop/RISC_CPU/V1.0/mem_wb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 defines.v|/home/legendlc/Desktop/RISC_CPU/V1.0/mem_wb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/legendlc/Desktop/RISC_CPU/V1.0/mem_wb.v|
+!i113 1
+R5
+vopen_mips
+R0
+!i10b 1
+!s100 fe6S9G<Wf^8;8I2e]YQU92
+I`VXVmiWU[`:U^NY9@:K1V1
+R1
+R2
+w1465140255
+8/home/legendlc/Desktop/RISC_CPU/V1.0/llc_mips.v
+F/home/legendlc/Desktop/RISC_CPU/V1.0/llc_mips.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 defines.v|/home/legendlc/Desktop/RISC_CPU/V1.0/llc_mips.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/legendlc/Desktop/RISC_CPU/V1.0/llc_mips.v|
+!i113 1
+R5
+vopenMIPS_tb
+R0
+!i10b 1
+!s100 CViH8KCO:?5XXeI29h4bb2
+I8XU8EAc2L0lW^On7>0l<i1
+R1
+R2
+w1465124460
+8/home/legendlc/Desktop/RISC_CPU/V1.0/top.v
+F/home/legendlc/Desktop/RISC_CPU/V1.0/top.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 defines.v|/home/legendlc/Desktop/RISC_CPU/V1.0/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/legendlc/Desktop/RISC_CPU/V1.0/top.v|
+!i113 1
+R5
+nopen@m@i@p@s_tb
+vpc_reg
+R0
+!i10b 1
+!s100 c;>_n;jgYRVe4cnPBi2ZK2
+Ij07fB=ij:6ngnTPj3N?Md2
+R1
+R2
+R6
+8/home/legendlc/Desktop/RISC_CPU/V1.0/pc_reg.v
+F/home/legendlc/Desktop/RISC_CPU/V1.0/pc_reg.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 defines.v|/home/legendlc/Desktop/RISC_CPU/V1.0/pc_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/legendlc/Desktop/RISC_CPU/V1.0/pc_reg.v|
+!i113 1
+R5
+vreg_file
+R0
+!i10b 1
+!s100 @PTXDJ2okFB92z0g3H`B]0
+Io2@?9m1e_k?GhLOGElWPz2
+R1
+R2
+R6
+8/home/legendlc/Desktop/RISC_CPU/V1.0/reg_file.v
+F/home/legendlc/Desktop/RISC_CPU/V1.0/reg_file.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 defines.v|/home/legendlc/Desktop/RISC_CPU/V1.0/reg_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/legendlc/Desktop/RISC_CPU/V1.0/reg_file.v|
+!i113 1
+R5
+vrom
+R0
+!i10b 1
+!s100 6D5>JU81zf:Q]QIV``6g?0
+ITk?4IBPnjgJNGg7YI<P^23
+R1
+R2
+w1465139144
+8/home/legendlc/Desktop/RISC_CPU/V1.0/rom.v
+F/home/legendlc/Desktop/RISC_CPU/V1.0/rom.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 defines.v|/home/legendlc/Desktop/RISC_CPU/V1.0/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/legendlc/Desktop/RISC_CPU/V1.0/rom.v|
+!i113 1
+R5

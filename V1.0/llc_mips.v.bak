@@ -1,0 +1,62 @@
+module open_mips(
+	input rst,
+	input clk,
+	input [`RegBus] rom_data_i,
+	output [`RegBus] rom_addr_o,
+	output rom_ce_o
+);
+
+//outside--if
+wire [`InstAddrBus] pc;
+
+//if--if_id
+wire if_pc;
+wire if_inst;
+
+//if_id--id
+wire if_id_pc;
+wire if_id_inst;
+
+//id--id_ex
+wire id_pc;
+wire id_inst;
+
+//id_ex--ex
+
+//ex--ex_mem
+
+//ex_mem--mem
+
+//mem--mem_wb
+
+//mem_wb--wb
+
+//instantiate pc_reg
+pc_reg pc_reg0(
+	.rst(rst), 
+	.clk(clk), 
+	.ce(rom_ce_o),
+	.pc(pc)
+);
+
+assign rom_addr_o = pc;
+
+//instantiate if_id
+if_id if_id0(
+	.rst(rst), 
+	.clk(clk), 
+	.if_inst(if_inst), 
+	.if_pc(if_pc), 
+	.id_inst(if_id_inst),
+	.id_pc(if_id_pc)
+);
+
+//instantiate id
+id id0(
+	.rst(rst),
+	.
+);
+
+//instantiate id_ex
+
+endmodule
